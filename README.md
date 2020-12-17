@@ -1,3 +1,5 @@
+To get started, add a .env file at the root of the folder and add you Datadog application key:
+REACT_APP_SECRET = <application key>	
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
